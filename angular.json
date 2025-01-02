@@ -98,6 +98,8 @@
               }
             ],
             "styles": [
+              "node_modules/@primeng/themes/aura/theme.css",
+              "src/styles/custom-theme.scss",
               "src/styles.scss"
             ],
             "scripts": []
